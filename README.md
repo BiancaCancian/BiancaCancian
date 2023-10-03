@@ -1,8 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF33E1&height=120&section=header"/>
 <p align="center"><strong>Olá me chamo Bianca! </strong> <br><br><strong> No momento estou cursando Ciência da Computação </strong><strong>com a aspiração de seguir uma carreira como desenvolvedora back-end.</strong> </p>&nbsp;
-
-<div  align="center" style="margin-bottom:100px">
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=BiancaCancian&show_icons=true&theme=radical&layout=compact" /> </div>
  
  &nbsp;
  &nbsp;
