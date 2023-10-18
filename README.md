@@ -2,7 +2,7 @@
 
 ## Olá me chamo Bianca!
 
-## Sou estudante de ciência da computação, tenho como objetivo seguir uma carreira back-end.
+# Sou estudante de ciência da computação, tenho como objetivo seguir uma carreira back-end.
 
 ## My Skills
 
