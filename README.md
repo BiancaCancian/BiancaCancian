@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF33E1&height=120&section=header"/>
-<p align="center">####Olá me chamo Bianca <br><br><strong> No momento estou cursando Ciência da Computação </strong><strong>com a aspiração de seguir uma carreira como desenvolvedora back-end.</strong> </p>&nbsp;
+<p align="center"> ## My Skills <br><br><strong> No momento estou cursando Ciência da Computação </strong><strong>com a aspiração de seguir uma carreira como desenvolvedora back-end.</strong> </p>&nbsp;
 
 ## My Skills
 
