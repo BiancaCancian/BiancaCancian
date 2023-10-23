@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF33E1&height=120&section=header"/>
 
-![Texto Alternativo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJrZXZwejV6ZXp0anBjdmR1aXluaDRzMWNxMnAxMjU1aXRuYTNmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zIAKIq2SvfudY4Mphh/giphy.gif)
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJrZXZwejV6ZXp0anBjdmR1aXluaDRzMWNxMnAxMjU1aXRuYTNmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zIAKIq2SvfudY4Mphh/giphy.gif">
+</p>
 
 ## Olá me chamo Bianca!
 
