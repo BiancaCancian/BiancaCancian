@@ -2,7 +2,7 @@
 
 ## Olá me chamo Bianca!
 
-![Texto Alternativo](ezgif.com-gif-to-mp4.gif)
+![Texto Alternativo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJrZXZwejV6ZXp0anBjdmR1aXluaDRzMWNxMnAxMjU1aXRuYTNmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zIAKIq2SvfudY4Mphh/giphy.gif)
 
 
 #### Sou estudante de ciência da computação
