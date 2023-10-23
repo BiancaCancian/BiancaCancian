@@ -5,7 +5,7 @@
 ![Texto Alternativo](ezgif.com-gif-to-mp4.gif)
 
 
-#### Sou estudante de ciência da computação, tenho como objetivo seguir uma carreira back-end.
+#### Sou estudante de ciência da computação
 
 ## My Skills
 
