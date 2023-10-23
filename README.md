@@ -2,6 +2,9 @@
 
 ## Olá me chamo Bianca!
 
+![Texto Alternativo](coraline-coraline-movie.gif)
+
+
 #### Sou estudante de ciência da computação, tenho como objetivo seguir uma carreira back-end.
 
 ## My Skills
