@@ -1,5 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF33E1&height=120&section=header"/>
-![Texto Alternativo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhyMTEwMXB3MzZtNWd6anYzaWR2aWdnMTJpNTI4Z29mZWR6cGNjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TzRxjXf0AOx626owJz/giphy.gif)
 
 ## Olá me chamo Bianca!
 
@@ -7,7 +6,7 @@
 
 
 
-#### Sou estudante de ciência da computação
+## Sou estudante de ciência da computação
 
 ## My Skills
 
