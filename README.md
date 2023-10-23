@@ -5,6 +5,7 @@
 ![Texto Alternativo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJrZXZwejV6ZXp0anBjdmR1aXluaDRzMWNxMnAxMjU1aXRuYTNmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zIAKIq2SvfudY4Mphh/giphy.gif)
 
 
+
 #### Sou estudante de ciência da computação
 
 ## My Skills
@@ -36,6 +37,9 @@
 <a href = "mailto:biancacancian100@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/bianca-cancian-4a60b61a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
+
+![Texto Alternativo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhyMTEwMXB3MzZtNWd6anYzaWR2aWdnMTJpNTI4Z29mZWR6cGNjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TzRxjXf0AOx626owJz/giphy.gif)
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF33E1&height=120&section=footer"/> 
