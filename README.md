@@ -7,8 +7,6 @@
 
 <p align="center">
   <img width="65%" src="https://github-readme-stats-rho-dun-20.vercel.app/api/top-langs/?username=BiancaCancian&show_icons=true&theme=radical&layout=compact" />
-  ![Bianca GitHub stats](https://github-readme-stats-rho-dun-20.vercel.app/api?username=BiancaCancianM03&show_icons=true&theme=tokyonight)
-
 </p>
 
 ## My Skills
