@@ -8,12 +8,6 @@
 
 ### Sou estudante de ciência da computação
 
-
-
-
-curl -H "Authorization: token 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 " "https://api.github.com/repos/BiancaCancian/pizza-marques/languages"
-
-
 ## My Skills
 
 #### Main Stack:
