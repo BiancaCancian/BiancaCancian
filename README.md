@@ -9,7 +9,7 @@
 ### Sou estudante de ciência da computação
 
 <div>
-<img width=100% align="center" src="https://github-readme-stats-rho-dun-20.vercel.app/api/top-langs/?username=rafaelalexandrino&show_icons=true&theme=radical&layout=compact" />
+<img width=75% align="center" src="https://github-readme-stats-rho-dun-20.vercel.app/api/top-langs/?username=BiancaCancian&show_icons=true&theme=radical&layout=compact" />
 </div>
 
 ## My Skills
