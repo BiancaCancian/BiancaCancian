@@ -30,6 +30,7 @@
 
 ![JAVA](https://img.shields.io/badge/JAVA-316192?style=for-the-badge&logo=JAVA&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-316192?style=for-the-badge&logo=C&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-316192?style=for-the-badge&logo=React&logoColor=white)&nbsp;
 
 
 ## Contacts:
