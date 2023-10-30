@@ -10,16 +10,8 @@
 
 
 
-#!/bin/bash
 
-USERNAME="BiancaCancian"
-TOKEN="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"
-
-for repo in $(curl -s -H "Authorization: token $TOKEN" "https://api.github.com/users/$USERNAME/repos" | jq -r '.[].name'); do
-  echo "Repositório: $repo"
-  curl -s -H "Authorization: token $TOKEN" "https://api.github.com/repos/$USERNAME/$repo/languages"
-  echo
-done
+curl -H "Authorization: token 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 " "https://api.github.com/repos/BiancaCancian/pizza-marques/languages"
 
 
 ## My Skills
