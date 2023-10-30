@@ -8,9 +8,10 @@
 
 ### Sou estudante de ciência da computação
 
-<div>
-<img width=65% align="center" src="https://github-readme-stats-rho-dun-20.vercel.app/api/top-langs/?username=BiancaCancian&show_icons=true&theme=radical&layout=compact" />
-</div>
+
+<p align="center">
+  <img width="65%" src="https://github-readme-stats-rho-dun-20.vercel.app/api/top-langs/?username=BiancaCancian&show_icons=true&theme=radical&layout=compact" />
+</p>
 
 ## My Skills
 
