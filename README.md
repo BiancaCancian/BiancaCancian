@@ -32,6 +32,9 @@
 ![C](https://img.shields.io/badge/C-316192?style=for-the-badge&logo=C&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-316192?style=for-the-badge&logo=React&logoColor=white)&nbsp;
 
+### Education:
+
+https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white
 
 ## Contacts:
 
