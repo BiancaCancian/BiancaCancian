@@ -32,8 +32,12 @@
 ![C](https://img.shields.io/badge/C-316192?style=for-the-badge&logo=C&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-316192?style=for-the-badge&logo=React&logoColor=white)&nbsp;
 
-### Education:
+## IDE:
+![ECLIPSE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
+![PYCHARM](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp;
+![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
+### Education:
 ![UDEMY](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
 
 ## Contacts:
