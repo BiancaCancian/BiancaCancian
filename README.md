@@ -15,7 +15,7 @@
 
 #### Studying:
 
-[![Studying](https://skillicons.dev/icons?i=java,react,spring)](https://skillicons.dev)
+[![Studying](https://skillicons.dev/icons?i=java,react,node,spring)](https://skillicons.dev)
 
 
 
