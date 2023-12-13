@@ -18,7 +18,7 @@
 [![Studying](https://skillicons.dev/icons?i=java,spring,react,)](https://skillicons.dev)
 
 
-## Contacts:
+#### Contact:
 <div> 
 <a href="https://www.linkedin.com/in/bianca-cancian-4a60b61a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
