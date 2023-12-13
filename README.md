@@ -2,7 +2,7 @@
 
 ## Olá me chamo Bianca!
 
-### Sou estudante de ciência da computação
+##### Sou estudante de ciência da computação, aqui você encontrará alguns de meus projetos e habilidades
 
 
 <p align="center">
