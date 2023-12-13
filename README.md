@@ -9,7 +9,7 @@
   <img width="65%" src="https://github-readme-stats-rho-dun-20.vercel.app/api/top-langs/?username=BiancaCancian&show_icons=true&theme=radical&layout=compact" />
 </p>
 
-## My Skills
+#### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,mysql,postgresql,eclipse,vscode)](https://skillicons.dev)
 
