@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=	4169E1&height=120&section=header"/>
 
 ## Olá me chamo Bianca! Sou estudante de Ciência da computação na Universidade Paulista.
 
