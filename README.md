@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
 ## Olá me chamo Bianca! Sou estudante de Ciência da computação na Universidade Paulista.
 
@@ -21,4 +21,4 @@
 <a href="https://www.linkedin.com/in/bianca-cancian-4a60b61a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF33E1&height=120&section=footer"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/> 
