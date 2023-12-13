@@ -2,7 +2,7 @@
 
 ## Olá me chamo Bianca! Sou estudante de Ciência da computação na Universidade Paulista.
 
-##### Aqui você encontrará alguns de meus projetos e habilidades.
+#### Aqui você encontrará alguns de meus projetos e habilidades.
 
 
 <p align="center">
