@@ -1,8 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF33E1&height=120&section=header"/>
+## Olá me chamo Bianca! Sou estudante de Ciência da computação na Universidade Paulista.
 
-## Olá me chamo Bianca!
-
-##### Sou estudante de ciência da computação, aqui você encontrará alguns de meus projetos e habilidades.
+##### Aqui você encontrará alguns de meus projetos e habilidades.
 
 
 <p align="center">
@@ -10,11 +9,9 @@
 </p>
 
 #### Skills:
-<p align="center">
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,mysql,postgresql,eclipse,vscode)](https://skillicons.dev)
-</p>
-#### Studying:
 
+#### Studying:
 [![Studying](https://skillicons.dev/icons?i=java,spring,react,)](https://skillicons.dev)
 
 
@@ -22,8 +19,5 @@
 <div> 
 <a href="https://www.linkedin.com/in/bianca-cancian-4a60b61a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
-
-
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF33E1&height=120&section=footer"/> 
