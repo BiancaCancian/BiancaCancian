@@ -13,18 +13,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,mysql,postgresql,eclipse,vscode)](https://skillicons.dev)
 
-#### Databases:
+#### Studying :
 
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=MySQL&logoColor=white)&nbsp;
-![PHPMyadminL](https://img.shields.io/badge/phpmyadmin-316192?style=for-the-badge&logo=phpmyadmin&logoColor=white)&nbsp;
-
-
-#### Studying in this moment:
-
-![JAVA](https://img.shields.io/badge/JAVA-316192?style=for-the-badge&logo=JAVA&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-316192?style=for-the-badge&logo=C&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-316192?style=for-the-badge&logo=React&logoColor=white)&nbsp;
+[![Studying](https://skillicons.dev/icons?i=java,react,node.js)](https://skillicons.dev)
 
 ### IDE:
 ![ECLIPSE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
