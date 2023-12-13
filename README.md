@@ -10,9 +10,9 @@
 </p>
 
 #### Skills:
-
+<p align="center">
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,mysql,postgresql,eclipse,vscode)](https://skillicons.dev)
-
+</p>
 #### Studying:
 
 [![Studying](https://skillicons.dev/icons?i=java,spring,react,)](https://skillicons.dev)
