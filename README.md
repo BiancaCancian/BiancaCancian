@@ -17,13 +17,10 @@
 
 [![Studying](https://skillicons.dev/icons?i=java,spring,react,)](https://skillicons.dev)
 
-#### Education:
-[![education](https://skillicons.dev/icons?i=unip,udemy)](https://skillicons.dev)
 
 ## Contacts:
-
 <div> 
-<a href = "mailto:biancacancian100@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:biancacancian100@gmail.com"> <(https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)></a>
 <a href="https://www.linkedin.com/in/bianca-cancian-4a60b61a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
 
