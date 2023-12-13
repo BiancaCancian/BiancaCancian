@@ -2,11 +2,11 @@
 
 ## Olá me chamo Bianca!
 
-##### Sou estudante de ciência da computação, aqui você encontrará alguns de meus projetos e habilidades
+##### Sou estudante de ciência da computação, aqui você encontrará alguns de meus projetos e habilidades.
 
 
 <p align="center">
-  <img width="65%" src="https://github-readme-stats-rho-dun-20.vercel.app/api/top-langs/?username=BiancaCancian&show_icons=true&theme=radical&layout=compact" />
+  <img width="50%" src="https://github-readme-stats-rho-dun-20.vercel.app/api/top-langs/?username=BiancaCancian&show_icons=true&theme=radical&layout=compact" />
 </p>
 
 #### Skills
