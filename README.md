@@ -1,4 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF33E1&height=120&section=header"/>
+
 ## Olá me chamo Bianca! Sou estudante de Ciência da computação na Universidade Paulista.
 
 ##### Aqui você encontrará alguns de meus projetos e habilidades.
