@@ -13,7 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,mysql,postgresql,eclipse,vscode,postman)](https://skillicons.dev)
 
 #### Studying:
-[![Studying](https://skillicons.dev/icons?i=java,spring,react,typescript,sass,)](https://skillicons.dev)
+[![Studying](https://skillicons.dev/icons?i=java,spring,react,typescript,sass,bootstrap,)](https://skillicons.dev)
 
 
 #### Contact:
