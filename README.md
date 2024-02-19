@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#ffff00&height=120&section=header"/>
 
-## Olá me chamo Bianca! Sou estudante de Ciência da computação na Universidade Paulista.
+## Olá me chamo Bianca! Sou estudante de Ciência da computação.
 
 #### Aqui você encontrará alguns de meus projetos e habilidades.
 
@@ -13,7 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,python,mysql,postgresql,eclipse,vscode,postman)](https://skillicons.dev)
 
 #### Studying:
-[![Studying](https://skillicons.dev/icons?i=java,spring,react,typescript,)](https://skillicons.dev)
+[![Studying](https://skillicons.dev/icons?i=java,spring,react,typescript,mongodb)](https://skillicons.dev)
 
 
 #### Contact:
