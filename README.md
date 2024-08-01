@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00008B&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ephesis&pause=1000&random=false&width=435&lines=Olá+me+chamo+Bianca)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=800080&vCenter=true&width=500&height=100&lines=Olá+me+chamo+Bianca)](https://git.io/typing-svg)
+
 
 
 #### Aqui você encontrará alguns de meus projetos e habilidades.
