@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00008B&height=120&section=header"/>
 
-## Olá me chamo Bianca! Sou estudante de Ciência da computação.
+<p style="color:purple;font-family:monospace;font-size:20px;">Olá me chamo Bianca.</p>
 
 #### Aqui você encontrará alguns de meus projetos e habilidades.
 
