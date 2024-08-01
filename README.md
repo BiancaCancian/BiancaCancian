@@ -9,7 +9,7 @@
 </p>
 
 #### Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,python,java,mysql,postgresql,eclipse,vscode,postman,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,python,java,mysql,postgresql,eclipse,vscode,postman,flask, R)](https://skillicons.dev)
 
 #### Studying:
 [![Studying](https://skillicons.dev/icons?i=spring,react,typescript,mongodb,php)](https://skillicons.dev)
