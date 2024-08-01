@@ -1,6 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00008B&height=120&section=header"/>
 
-<p style="color:purple;font-family:monospace;font-size:20px;">Olá me chamo Bianca.</p>
+<p style="color:purple; font-family:monospace; font-size:20px; animation: blink 1s infinite;">
+  Olá me chamo Bianca.
+</p>
+
+<style>
+@keyframes blink {
+  0% { opacity: 1; }
+  50% { opacity: 0; }
+  100% { opacity: 1; }
+}
+</style>
+
 
 #### Aqui você encontrará alguns de meus projetos e habilidades.
 
