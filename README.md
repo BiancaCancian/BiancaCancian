@@ -8,11 +8,8 @@
   <img width="45%" src="https://github-readme-stats-rho-dun-20.vercel.app/api/top-langs/?username=BiancaCancian&show_icons=true&theme=radical&layout=compact" />
 </p>
 
-#### Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,python,java,mysql,postgresql,eclipse,vscode,postman,flask,r)](https://skillicons.dev)
 
-#### Studying:
-[![Studying](https://skillicons.dev/icons?i=spring,react,typescript,mongodb,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,python,java,spring,mysql,postgresql,eclipse,vscode,postman,flask,r,react,typescript,mongodb,php)](https://skillicons.dev)
 
 
 #### Contact:
