@@ -6,7 +6,7 @@
   <img width="45%" src="https://github-readme-stats-rho-dun-20.vercel.app/api/top-langs/?username=BiancaCancian&show_icons=true&theme=radical&layout=compact" />
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,python,java,spring,mysql,postgresql,mongodb,eclipse,vscode,postman,flask,r,react,typescript,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,python,java,spring,mysql,postgresql,mongodb,postman,flask,r,react,typescript)](https://skillicons.dev)
 
 
 <p align="center" style="margin-top: 20px;">
