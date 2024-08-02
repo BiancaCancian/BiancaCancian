@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00008B&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=800080&center=true&vCenter=true&width=600&height=150&lines=Olá+me+chamo+Bianca!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=800080&center=true&vCenter=true&width=600&height=150&lines=Olá+me+chamo+Bianca!+Sou+estudante+de+ciência+da+computação)](https://git.io/typing-svg)
 
 <p align="center">
   <img width="45%" src="https://github-readme-stats-rho-dun-20.vercel.app/api/top-langs/?username=BiancaCancian&show_icons=true&theme=radical&layout=compact" />
