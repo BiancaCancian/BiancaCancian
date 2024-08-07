@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=800080&center=true&vCenter=true&width=850&height=150&lines=Olá+me+chamo+Bianca+Cancian!+Sou+estudante+de+ciência+da+computação.)](https://git.io/typing-svg)
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats-rho-dun-20.vercel.app/api/top-langs/?username=BiancaCancian&show_icons=true&theme=radical&layout=compact" />
-</p>
-
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,python,flask,java,spring,mysql,postgresql,mongodb,r,react,typescript)](https://skillicons.dev)
 
 
