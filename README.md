@@ -6,12 +6,11 @@
 
 <div style="text-align: justify;">
   Sou estudante de Ciência da Computação com experiência prática em desenvolvimento de software e análise de dados. Estou sempre em busca de novos desafios para aplicar e expandir meus conhecimentos em tecnologias emergentes e soluções inovadoras.
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,python,flask,java,spring,mysql,postgresql,mongodb,r,react,typescript" alt="My Skills">
-  </a>
 </div>
 
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,python,flask,java,spring,mysql,postgresql,mongodb,r,react,typescript" alt="My Skills">
+  </a>
 
 ### Conecte-se comigo
 
