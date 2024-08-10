@@ -1,16 +1,18 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00008B&height=120&section=header"/>
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=800080&center=true&vCenter=true&width=850&height=150&lines=Olá+me+chamo+Bianca+Cancian!+Sou+estudante+de+ciência+da+computação.)](https://git.io/typing-svg)
+<h1>
+    <span>Bianca Cancian</span>
+</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,python,flask,java,spring,mysql,postgresql,mongodb,r,react,typescript)](https://skillicons.dev)
-
-
-<p align="center" style="margin-top: 20px;">
-  <a href="https://www.linkedin.com/in/bianca-cancian-4a60b61a3/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bianca-cancian-4a60b61a3/" alt="LinkedIn" style="border-radius: 50%; margin: 10px;">
+<div style="text-align: justify;">
+  Sou estudante de Ciência da Computação com experiência prática em desenvolvimento de software e análise de dados. Estou sempre em busca de novos desafios para aplicar e expandir meus conhecimentos em tecnologias emergentes e soluções inovadoras.
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,python,flask,java,spring,mysql,postgresql,mongodb,r,react,typescript" alt="My Skills">
   </a>
-</p>
+</div>
 
 
+### Conecte-se comigo
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00008B&height=120&section=footer"/> 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/bianca-cancian-4a60b61a3/)
