@@ -8,9 +8,17 @@
   Sou estudante de Ciência da Computação, apaixonada por aprender e crescer na área de tecnologia. Gosto de explorar novas oportunidades que me permitam aplicar o que sei e aprender ainda mais sobre o desenvolvimento de software e análise de dados. Estou sempre em busca de desafios que contribuam para o meu desenvolvimento profissional e pessoal.
 </div>
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaCancian" alt="Linguagens mais Usadas" />
+  </a>
+</p>
+
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,python,flask,java,spring,mysql,postgresql,mongodb,r,react,typescript" alt="My Skills">
   </a>
+
+ 
 
 ### Conecte-se comigo
 
