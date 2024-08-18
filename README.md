@@ -5,7 +5,7 @@
 </h1>
 
 <div style="text-align: justify;">
-  Sou estudante de Ciência da Computação, apaixonada por aprender e crescer na área de tecnologia. Gosto de explorar novas oportunidades que me permitam aplicar o que sei e aprender ainda mais sobre o desenvolvimento de software e análise de dados. Estou sempre em busca de desafios que contribuam para o meu desenvolvimento profissional e pessoal.
+  Sou estudante de Ciência da Computação, apaixonada por aprender e crescer na área de tecnologia. Gosto de explorar novas oportunidades que me permitam aplicar o que sei e aprender ainda mais sobre o desenvolvimento de software e análise de dados. 
 </div>
 
 <p align="center">
