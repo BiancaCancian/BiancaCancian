@@ -10,9 +10,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaCancian" alt="Linguagens mais Usadas" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaCancian" alt="Linguagens mais Usadas" width="260" />
   </a>
 </p>
+
 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,python,flask,java,spring,mysql,postgresql,mongodb,r,react,typescript" alt="My Skills">
