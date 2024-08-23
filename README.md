@@ -11,7 +11,7 @@
 </p>
 
 <div style="text-align: justify;">
-  Sou estudante de Ciência da Computação , apaixonada por aprender e crescer na área de tecnologia. Gosto de explorar novas oportunidades que me permitam aplicar o que sei e aprender ainda mais sobre o desenvolvimento de software e análise de dados.
+  Sou estudante de Ciência da Computação, apaixonada por aprender e crescer na área de tecnologia. Gosto de explorar novas oportunidades que me permitam aplicar o que sei e aprender ainda mais sobre o desenvolvimento de software e análise de dados.
 </div>
 
 <a href="https://skillicons.dev">
