@@ -2,10 +2,6 @@
     <span>Bianca Cancian</span>
 </h1>
 
-<div style="text-align: justify;">
-  Sou estudante de Ciência da Computação, apaixonada por aprender e crescer na área de tecnologia. Gosto de explorar novas oportunidades que me permitam aplicar o que sei e aprender ainda mais sobre o desenvolvimento de software e análise de dados.
-</div>
-
   <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaCancian" alt="Linguagens mais Usadas" width="260" />
