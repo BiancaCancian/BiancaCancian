@@ -12,7 +12,7 @@
 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,python,flask,java,spring,mysql,postgresql,mongodb,react,typescript" alt="My Skills">
-  </a>
+</a>
  
 
 ### Conecte-se comigo🗣️
