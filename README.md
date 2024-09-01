@@ -1,16 +1,14 @@
 <h1>
-    <span>Bianca Cancian</span>
+    <span>Olá me chamo Bianca, sou estudante de Ciência da Computação, na Universidade Paulista e estou no sexto semestre.🙋🏾‍♀️</span>
 </h1>
 
-  <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaCancian" alt="Linguagens mais Usadas" width="260" />
-  </a>
-</p>
+ <h2>Aqui você pode conferir alguns de meus projetos.💻</h2>
 
-<div style="text-align: justify;">
-  Sou estudante de Ciência da Computação, apaixonada por aprender e crescer na área de tecnologia. Gosto de explorar novas oportunidades que me permitam aplicar o que sei e aprender ainda mais sobre o desenvolvimento de software e análise de dados.
-</div>
+![BiancaCancian's Stats](https://github-readme-stats.vercel.app/api?username=BiancaCancian&theme=synthwave&show_icons=true&hide_border=true&count_private=false)
+![BiancaCancian's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BiancaCancian&theme=synthwave&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaCancian&theme=synthwave&show_icons=true&hide_border=true&layout=compact" alt="BiancaCancian's Top Languages">
+</p>
 
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,python,flask,java,spring,mysql,postgresql,mongodb,react,typescript" alt="My Skills">
