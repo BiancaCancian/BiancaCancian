@@ -13,7 +13,7 @@
 </div>
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,python,flask,java,spring,mysql,postgresql,mongodb,r,react,typescript" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,python,flask,java,spring,mysql,postgresql,mongodb,react,typescript" alt="My Skills">
   </a>
  
 
