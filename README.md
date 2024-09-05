@@ -3,13 +3,8 @@
 
 ### Aqui você pode conferir alguns de meus projetos 💻
 
-
-<p align = "center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BiancaCancian&theme=synthwave&hide_border=true" alt="BiancaCancian's Streak" width="300" style="display: inline-block;">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaCancian&theme=synthwave&show_icons=true&hide_border=true&layout=compact" alt="BiancaCancian's Top Languages" width="300" style="display: inline-block;">
-</p>
+![BiancaCancian's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BiancaCancian&theme=dracula&hide_border=true)
+![BiancaCancian's Stats](https://github-readme-stats.vercel.app/api?username=BiancaCancian&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
 <h2>
 <a href="https://skillicons.dev">
