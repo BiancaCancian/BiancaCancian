@@ -3,10 +3,11 @@
 
 ### Aqui você pode conferir alguns de meus projetos 💻
 
-<div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=BiancaCancian&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaCancian&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <img src="https://streak-stats.demolab.com?user=BiancaCancian&theme=tokyonight&hide_border=true" style="margin: 0 10px;" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaCancian&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" style="margin: 0 10px;" height="180em" />
 </div>
+
 
 
 <h2>
