@@ -3,8 +3,11 @@
 
 ### Aqui você pode conferir alguns de meus projetos 💻
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BiancaCancian&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-[![Bianca's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BiancaCancian)](https://github.com/BiancaCancian/github-readme-stats)
+<div align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=BiancaCancian&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaCancian&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
+</div>
+
 
 <h2>
 <a href="https://skillicons.dev">
