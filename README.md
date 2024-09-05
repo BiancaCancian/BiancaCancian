@@ -6,6 +6,9 @@
 ![BiancaCancian's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BiancaCancian&theme=dracula&hide_border=true)
 ![BiancaCancian's Stats](https://github-readme-stats.vercel.app/api?username=BiancaCancian&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
+[![Bianca's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BiancaCancian)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <h2>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,python,flask,java,spring,mysql,postgresql,mongodb,react,typescript" alt="My Skills">
