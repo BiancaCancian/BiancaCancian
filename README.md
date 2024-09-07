@@ -5,6 +5,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaCancian&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" style="margin: 0 10px;" height="180em" />
 </div>
 
+
+
 <h2>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,python,flask,java,spring,mysql,postgresql,mongodb,react,typescript" alt="My Skills">
