@@ -10,6 +10,8 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,python,flask,java,spring,mysql,postgresql,mongodb,react,typescript" alt="My Skills">
 </a>
 </h2>
+
+[![wakatime](https://wakatime.com/badge/user/e1682919-7a07-4754-aeb9-3982a7a525c0.svg)](https://wakatime.com/@e1682919-7a07-4754-aeb9-3982a7a525c0)
  
 
 #### Conecte-se comigo🗣️
