@@ -14,6 +14,6 @@
 [![wakatime](https://wakatime.com/badge/user/e1682919-7a07-4754-aeb9-3982a7a525c0.svg)](https://wakatime.com/@e1682919-7a07-4754-aeb9-3982a7a525c0)
  
 
-#### Conecte-se comigo🗣️
+#### Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/bianca-cancian-4a60b61a3/)
