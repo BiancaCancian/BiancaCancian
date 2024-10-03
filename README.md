@@ -4,6 +4,7 @@
 - Data Analysis
 - Front-End Development
 
+## Most Used Languages and Contributions
 <div align="center">
   <table>
     <tr>
@@ -15,31 +16,10 @@
 
 [![wakatime](https://wakatime.com/badge/user/e1682919-7a07-4754-aeb9-3982a7a525c0.svg)](https://wakatime.com/@e1682919-7a07-4754-aeb9-3982a7a525c0)
 
-#### Technologies:
+## My Tech Stack
 <h2>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,sass,python,java" alt="My Skills">
-</a>
-</h2>
-
-#### Frameworks:
-<h2>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,spring,vite,flask" alt="My Skills">
-</a>
-</h2>
-
-#### Databases:
-<h2>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="My Skills">
-</a>
-</h2>
-
-#### Tools:
-<h2>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,eclipse" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=html,css,js,sass,python,java,react,bootstrap,vite,nodejs,flask,mysql,mongodb,postgresql,vscode,pycharm,eclipse" alt="My Skills">
 </a>
 </h2>
 
