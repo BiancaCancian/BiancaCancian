@@ -5,9 +5,14 @@
 - Data Analysis
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BiancaCancian&theme=tokyonight&hide_border=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaCancian&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="180px"/>
+  <table>
+    <tr>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=BiancaCancian&theme=tokyonight&hide_border=true" height="180px"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaCancian&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="180px"/></td>
+    </tr>
+  </table>
 </div>
+
 
 [![wakatime](https://wakatime.com/badge/user/e1682919-7a07-4754-aeb9-3982a7a525c0.svg)](https://wakatime.com/@e1682919-7a07-4754-aeb9-3982a7a525c0)
 
