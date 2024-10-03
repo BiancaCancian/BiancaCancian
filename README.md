@@ -1,12 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4990&pause=1000&color=BA47F7&width=435&lines=Hello+I'm+Bianca!%F0%9F%99%8B%F0%9F%8F%BE%E2%80%8D%E2%99%80%EF%B8%8F;Computer+science+student.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4990&pause=1000&color=BA47F7&width=435&lines=Hello+I'm+Bianca!%F0%9F%99%8B%F0%9F%8F%BE%E2%80%8D%E2%99%80%EF%B8%8F;Computer+science+student.)](https://git.io/typing-svg)
 
 ## 📌Areas
-- Front-End Development
 - Data Analysis
+- Front-End Development
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BiancaCancian&theme=tokyonight&hide_border=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaCancian&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="180px"/>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=BiancaCancian&theme=tokyonight&hide_border=true" height="180px"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaCancian&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="180px"/></td>
+    </tr>
+  </table>
 </div>
 
 [![wakatime](https://wakatime.com/badge/user/e1682919-7a07-4754-aeb9-3982a7a525c0.svg)](https://wakatime.com/@e1682919-7a07-4754-aeb9-3982a7a525c0)
