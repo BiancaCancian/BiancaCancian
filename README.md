@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4990&pause=1000&color=BA47F7&width=435&lines=Hello+I'm+Bianca!%F0%9F%99%8B%F0%9F%8F%BE%E2%80%8D%E2%99%80%EF%B8%8F;Computer+science+student.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4982&pause=1000&color=BA47F7&width=435&lines=Hello+I'm+Bianca%F0%9F%99%8B%F0%9F%8F%BE%E2%80%8D%E2%99%80%EF%B8%8F;Passionate+about+technology%F0%9F%98%81)](https://git.io/typing-svg)
 
 ## 📌Areas of Interest
 - Data Analysis
