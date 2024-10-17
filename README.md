@@ -18,7 +18,7 @@
 ### My Tech Stack
 <h2>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,sass,python,java,react,bootstrap,vite,nodejs,flask,mysql,mongodb,postgresql,vscode,pycharm,eclipse" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=html,css,js,sass,react,bootstrap,vite,nodejs,flask,python,java,mysql,mongodb,postgresql,vscode,pycharm,eclipse" alt="My Skills">
 </a>
 </h2>
 
