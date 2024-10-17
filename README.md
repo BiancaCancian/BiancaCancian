@@ -4,7 +4,6 @@
 - Data Analysis
 - Front-End Development
 
-### Most Used Languages and Contributions
 <div align="center">
   <table>
     <tr>
