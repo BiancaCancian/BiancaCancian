@@ -4,6 +4,8 @@
 - Data Analysis
 - Front-End Development
 
+ [![wakatime](https://wakatime.com/badge/user/e1682919-7a07-4754-aeb9-3982a7a525c0.svg)](https://wakatime.com/@e1682919-7a07-4754-aeb9-3982a7a525c0)
+
 <div align="center">
   <table>
     <tr>
@@ -12,8 +14,6 @@
     </tr>
   </table>
 </div>
-
-[![wakatime](https://wakatime.com/badge/user/e1682919-7a07-4754-aeb9-3982a7a525c0.svg)](https://wakatime.com/@e1682919-7a07-4754-aeb9-3982a7a525c0)
 
 ### My Tech Stack
 <h2>
