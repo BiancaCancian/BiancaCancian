@@ -4,7 +4,9 @@
 - Data Analysis
 - Front-End Development
 
- [![wakatime](https://wakatime.com/badge/user/e1682919-7a07-4754-aeb9-3982a7a525c0.svg)](https://wakatime.com/@e1682919-7a07-4754-aeb9-3982a7a525c0)
+[![wakatime](https://wakatime.com/badge/user/e1682919-7a07-4754-aeb9-3982a7a525c0.svg?style=flat&color=ff69b4)](https://wakatime.com/@e1682919-7a07-4754-aeb9-3982a7a525c0)
+![Profile Views](https://komarev.com/ghpvc/?username=BiancaCancian&color=ff69b4)
+
 
 <div align="center">
   <table>
