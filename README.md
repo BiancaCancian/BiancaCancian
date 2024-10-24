@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&color=FF69B4&width=435&lines=Hi%2CI'm+Bianca!%F0%9F%91%8B;Passionate+about+Technology%F0%9F%98%8A)](https://git.io/typing-svg)
 
-## 📌Areas of Interest
+### 📌Areas of Interest
 - Data Analysis
 - Front-End Development
 
