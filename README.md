@@ -1,4 +1,4 @@
-<h2 style="text-align: center;">*Hi, I'm Bianca*</h2>
+*Hi, I'm Bianca👋*
 
 ### 📌Areas of Interest
 - Data Analysis
