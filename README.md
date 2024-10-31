@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=4990&pause=1000&color=BA47F7&width=435&lines=Hi%2C+I'm+Bianca%F0%9F%91%8B)](https://git.io/typing-svg)
+*Hi, I'm Bianca👋*
 
 ### 📌Areas of Interest
 - Data Analysis
