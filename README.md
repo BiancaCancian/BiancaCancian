@@ -16,7 +16,7 @@
   </table>
 </div>
 
-### My Tech Stack
+#### ✨ My Tech Stack ✨
 <h2>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,sass,react,bootstrap,vite,nodejs,flask,python,java,mysql,mongodb,postgresql,vscode,pycharm,eclipse" alt="My Skills">
