@@ -10,7 +10,6 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=BiancaCancian&theme=radical&hide_border=true" height="180px"/></td>
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaCancian&theme=radical&show_icons=true&hide_border=true&layout=compact" height="180px"/></td>
     </tr>
   </table>
