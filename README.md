@@ -1,30 +1,22 @@
-*Hi, I'm Bianca👋*
+<h1>Hi There! 👋</h1>
 
-* Passionate for Data 📊  
-* Constantly evolving 🔄
-
-[![wakatime](https://wakatime.com/badge/user/e1682919-7a07-4754-aeb9-3982a7a525c0.svg?style=flat&color=ff69b4)](https://wakatime.com/@e1682919-7a07-4754-aeb9-3982a7a525c0)
-![Profile Views](https://komarev.com/ghpvc/?username=BiancaCancian&color=ff69b4)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bianca-cancian-4a60b61a3/)](https://www.linkedin.com/in/bianca-cancian-4a60b61a3/)
+[![Gmail Badge](https://img.shields.io/badge/-contatobiancacancian@gmail.com-6633cc?style=flatsquare&logo=Gmail&logoColor=white&link=mailto:contatobiancacancian@gmail.com)](mailto:contatobiancacancian@gmail.com)
 
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaCancian&theme=radical&show_icons=true&hide_border=true&layout=compact" height="180px"/></td>
-    </tr>
-  </table>
-</div>
 
-#### ✨ My Tech Stack ✨
-<h2>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,sass,react,bootstrap,vite,nodejs,flask,python,java,mysql,mongodb,postgresql,vscode,pycharm,eclipse" alt="My Skills">
-</a>
-</h2>
+## My name is Bianca Cancian
+### I have currently been delving into technologies such as:
+(Java | Python | React Native | React JS | MongoDB | PostgreSQL | MySQL | HTML | CSS | ) ✨
+- 👩‍💻 Data Intelligence Intern 
+- 🎓 7th-semester Computer Science student
+- 🌐 Passionate about data and new challenges
 
-#### 🫱🏽‍🫲🏾 Let’s connect on LinkedIn!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/bianca-cancian-4a60b61a3/)
-
+<div align="left">
+  
+  ![BiancaCancian's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaCancian&theme=jolly&show_icons=true&hide_border=true&layout=compact)
+  
+ </div>
 
 
 
