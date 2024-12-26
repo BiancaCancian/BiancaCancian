@@ -7,7 +7,7 @@
 
 ## My name is Bianca Cancian
 ### I have currently been delving into technologies such as:
-(Java | Python | React Native | React JS | MongoDB | PostgreSQL | MySQL | HTML | CSS | ) ✨
+(Java | Python | React Native | React JS | MongoDB | PostgreSQL | MySQL) ✨
 - 👩‍💻 Data Intelligence Intern 
 - 🎓 7th-semester Computer Science student
 - 🌐 Passionate about data and new challenges
