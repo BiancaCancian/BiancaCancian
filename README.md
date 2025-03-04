@@ -12,10 +12,10 @@
 
 
 
-<h2>&nbsp;About Me </h2>
-<p>My name is Bianca, and I'm a Computer Science student focusing on data science and web development. Passionate about technology, I'm always seeking new knowledge.(✿◕‿◕)</p>
+<h2>&nbsp;👩🏽‍🦱About Me </h2>
+<p>💗✨My name is Bianca, and I'm a Computer Science student focusing on data science and web development. Passionate about technology, I'm always seeking new knowledge.</p>
 
-<h2> &nbsp;Tech Stack</h2>
+<h2> &nbsp;👩🏽‍💻Tech Stack</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,typescript,js,react,vite,vue" />
