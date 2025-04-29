@@ -1,4 +1,4 @@
-<h1>✨ 👋 Hi there ✨</h1>
+![github-header-image (5)](https://github.com/user-attachments/assets/7fcb7223-5fd0-43f0-92e1-570754a76c5b)
 
 <p>
   <a href="https://www.linkedin.com/in/bianca-cancian-4a60b61a3/">
