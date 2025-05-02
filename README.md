@@ -1,4 +1,4 @@
-![github-header-image (5)](https://github.com/user-attachments/assets/7fcb7223-5fd0-43f0-92e1-570754a76c5b)
+<h1>Hi, I'm Bianca</h1>
 
 <p>
   <a href="https://www.linkedin.com/in/bianca-cancian-4a60b61a3/">
@@ -13,7 +13,7 @@
 
 
 <h2>&nbsp;👩🏽‍🦱 About Me </h2>
-<p>💗✨My name is Bianca, and I'm a Computer Science student focusing on data science and web development. Passionate about technology, I'm always seeking new knowledge.</p>
+<p>💗✨I'm a Computer Science student focusing on data science and web development. Passionate about technology, I'm always seeking new knowledge.</p>
 
 <h2> &nbsp;👩🏽‍💻 Tech Stack</h2>
 <p align="center">
