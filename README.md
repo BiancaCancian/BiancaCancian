@@ -12,18 +12,18 @@
 
 
 
-<h2>&nbsp;👩🏽‍🦱 About Me </h2>
-<p>💗✨I'm a Computer Science student focusing on data science and web development. Passionate about technology, I'm always seeking new knowledge.</p>
+<h2>&nbsp;About Me</h2>
+<p>My name is Bianca, I'm always looking for new knowledge and how technology can be used to build a smart planet.💙</p>
 
 <h2> &nbsp;👩🏽‍💻 Tech Stack</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,typescript,js,react,vite,vue" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,flask,next,nodejs,postgresql,mysql,prisma,mongo" />
+    <img src="https://skillicons.dev/icons?i=python,flask,nodejs,postgresql,mysql" />
   </a>
 </p>
 
