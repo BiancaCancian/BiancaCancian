@@ -13,7 +13,7 @@
 
 
 <h2>&nbsp;About Me</h2>
-<p>My name is Bianca, I'm always looking for new knowledge and how technology can be used to build a smart planet.💙</p>
+<p>My name is Bianca, I'm always looking for new knowledge.💙</p>
 
 <h2> &nbsp;👩🏽‍💻 Tech Stack</h2>
 <p align="center">
