@@ -1,6 +1,6 @@
 <div align="left">
 
-<h2 style="margin-bottom: 0;">Hi there👋</h2>
+<h2 style="margin-bottom: 0;">Hi there🙋🏾‍♀️</h2>
 <h4 style="margin: 0;">I'm Bianca, a software developer.</h4>
 <p style="margin: 0;">I love how technology can be used to solve different problems and help people.</p>
 
