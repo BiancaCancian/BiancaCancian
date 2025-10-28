@@ -6,7 +6,7 @@
 
 <p style="margin-top: 8px;">At the moment I have developed in:</p>
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,react,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,react,linux,nvidia)](https://skillicons.dev)
 
 </div>
 
