@@ -1,14 +1,21 @@
-<div align="left">
+## Hi there 🙋🏾‍♀️ 
 
-<h2 style="margin-bottom: 0;">Hi there🙋🏾‍♀️</h2>
-<h4 style="margin: 0;">I'm Bianca, a software developer.</h4>
-<p style="margin: 0;">I love how technology can be used to solve different problems and help people.</p>
+I'm Bianca, a software developer who loves turning ideas into practical solutions through technology.
 
-<p style="margin-top: 8px;">At the moment I have developed in:</p>
+### Currently experienced with
+[![My Skills](https://skillicons.dev/icons?i=python,linux,ubuntu,docker,git,github)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,react,linux)](https://skillicons.dev)
+### Areas of Development
+• Artificial Intelligence  
+• Computer Vision  
+• Edge AI  
+• Linux System Architecture (NVIDIA Jetson, CUDA, TensorRT)
 
-</div>
+
+
+
+
+
 
 
 
