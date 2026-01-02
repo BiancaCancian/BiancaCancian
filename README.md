@@ -6,10 +6,11 @@ I'm Bianca, a software developer who loves turning ideas into practical solution
 [![My Skills](https://skillicons.dev/icons?i=python,linux,ubuntu,docker,git,github)](https://skillicons.dev)
 
 ### Areas of Development
+• Software Engineering
 • Artificial Intelligence  
 • Computer Vision  
 • Edge AI  
-• Linux System Architecture (NVIDIA Jetson, CUDA, TensorRT)
+
 
 
 
