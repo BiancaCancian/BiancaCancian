@@ -7,9 +7,7 @@ I'm Bianca, a software developer who loves turning ideas into practical solution
 
 ### Areas of Development
 • Software Engineering
-• Artificial Intelligence  
-• Computer Vision  
-• Edge AI  
+• Artificial Intelligence  • Computer Vision   • Edge AI  
 
 
 
