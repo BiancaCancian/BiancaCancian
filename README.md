@@ -2,7 +2,7 @@
 
 I'm Bianca, I love turning ideas into practical solutions through technology.
 
-<img align="center" src="./blackspidercat.png" width="180"/>
+<img align="left" src="./blackspidercat.png" width="180"/>
 
 ### Currently experienced with
 [![My Skills](https://skillicons.dev/icons?i=python,nodejs,react,linux,ubuntu,docker,git,github)](https://skillicons.dev)
